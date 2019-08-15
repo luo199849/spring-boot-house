@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../housev2.0/monitor/eureka-sever/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

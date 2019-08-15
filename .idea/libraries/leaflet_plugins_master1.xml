@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="leaflet-plugins-master1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../housev2.0/services/api-gateway/src/main/resources/static/static/assets/js/sources/leaflet-plugins-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

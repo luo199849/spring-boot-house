@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maven-wrapper4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../housev2.0/monitor/zipkin/.mvn/wrapper/maven-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

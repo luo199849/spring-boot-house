@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compass-old">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../housev2.0/services/api-gateway/src/main/resources/static/static/assets/scss/compass-old.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

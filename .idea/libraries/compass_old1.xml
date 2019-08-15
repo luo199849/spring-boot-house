@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compass-old1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../housev2.0/moban/zoner/assets/scss/compass-old.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
